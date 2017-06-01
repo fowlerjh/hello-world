@@ -1,2 +1,3 @@
 # hello-world
-getting started with GitHub repositories
+
+ignorance is bliss and I am tired of being happy
